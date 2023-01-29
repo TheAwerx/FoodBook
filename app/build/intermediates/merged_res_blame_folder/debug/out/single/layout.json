@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "com.akifgumusdag.foodbook.app-mergeDebugResources-52:/layout/fragment_food_list.xml",
+        "source": "com.akifgumusdag.foodbook.app-main-55:/layout/fragment_food_list.xml"
+    },
+    {
+        "merged": "com.akifgumusdag.foodbook.app-mergeDebugResources-52:/layout/fragment_food_detail.xml",
+        "source": "com.akifgumusdag.foodbook.app-main-55:/layout/fragment_food_detail.xml"
+    }
+]

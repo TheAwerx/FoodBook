@@ -2,11 +2,11 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/BesinlerKitabiGradleWork.iml" filepath="$PROJECT_DIR$/.idea/modules/BesinlerKitabiGradleWork.iml" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/BesinlerKitabiGradleWork.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/BesinlerKitabiGradleWork.app.iml" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/BesinlerKitabiGradleWork.app.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/app/BesinlerKitabiGradleWork.app.androidTest.iml" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/BesinlerKitabiGradleWork.app.main.iml" filepath="$PROJECT_DIR$/.idea/modules/app/BesinlerKitabiGradleWork.app.main.iml" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/BesinlerKitabiGradleWork.app.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/app/BesinlerKitabiGradleWork.app.unitTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/FoodBook.iml" filepath="$PROJECT_DIR$/.idea/modules/FoodBook.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/FoodBook.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/FoodBook.app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/FoodBook.app.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/app/FoodBook.app.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/FoodBook.app.main.iml" filepath="$PROJECT_DIR$/.idea/modules/app/FoodBook.app.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/FoodBook.app.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/app/FoodBook.app.unitTest.iml" />
     </modules>
   </component>
 </project>

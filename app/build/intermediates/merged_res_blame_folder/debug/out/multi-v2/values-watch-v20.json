@@ -1,0 +1,20 @@
+{
+    "logs": [
+        {
+            "outputFile": "com.akifgumusdag.foodbook.app-mergeDebugResources-51:/values-watch-v20/values-watch-v20.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\Akif\\.gradle\\caches\\transforms-3\\7f16328080e12bded25877601f4f6565\\transformed\\appcompat-1.6.0\\res\\values-watch-v20\\values-watch-v20.xml",
+                    "from": {
+                        "startLines": "2,5,8",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "55,214,385",
+                        "endLines": "4,7,10",
+                        "endColumns": "12,12,12",
+                        "endOffsets": "209,380,553"
+                    }
+                }
+            ]
+        }
+    ]
+}

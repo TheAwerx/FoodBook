@@ -1,0 +1,78 @@
+[
+    {
+        "merged": "C:\\Users\\Akif\\.gradle\\daemon\\7.3.3\\com.akifgumusdag.foodbook.app-merged_res-53:\\mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\Akif\\.gradle\\daemon\\7.3.3\\com.akifgumusdag.foodbook.app-main-55:\\mipmap-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\Akif\\.gradle\\daemon\\7.3.3\\com.akifgumusdag.foodbook.app-merged_res-53:\\drawable_ic_launcher_background.xml.flat",
+        "source": "C:\\Users\\Akif\\.gradle\\daemon\\7.3.3\\com.akifgumusdag.foodbook.app-main-55:\\drawable\\ic_launcher_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\Akif\\.gradle\\daemon\\7.3.3\\com.akifgumusdag.foodbook.app-merged_res-53:\\mipmap-hdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\Akif\\.gradle\\daemon\\7.3.3\\com.akifgumusdag.foodbook.app-main-55:\\mipmap-hdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\Akif\\.gradle\\daemon\\7.3.3\\com.akifgumusdag.foodbook.app-merged_res-53:\\mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\Akif\\.gradle\\daemon\\7.3.3\\com.akifgumusdag.foodbook.app-main-55:\\mipmap-xxxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\Akif\\.gradle\\daemon\\7.3.3\\com.akifgumusdag.foodbook.app-merged_res-53:\\navigation_food_graph.xml.flat",
+        "source": "C:\\Users\\Akif\\.gradle\\daemon\\7.3.3\\com.akifgumusdag.foodbook.app-main-55:\\navigation\\food_graph.xml"
+    },
+    {
+        "merged": "C:\\Users\\Akif\\.gradle\\daemon\\7.3.3\\com.akifgumusdag.foodbook.app-merged_res-53:\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "C:\\Users\\Akif\\.gradle\\daemon\\7.3.3\\com.akifgumusdag.foodbook.app-main-55:\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\Akif\\.gradle\\daemon\\7.3.3\\com.akifgumusdag.foodbook.app-merged_res-53:\\mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\Akif\\.gradle\\daemon\\7.3.3\\com.akifgumusdag.foodbook.app-main-55:\\mipmap-xxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\Akif\\.gradle\\daemon\\7.3.3\\com.akifgumusdag.foodbook.app-merged_res-53:\\mipmap-xxxhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\Akif\\.gradle\\daemon\\7.3.3\\com.akifgumusdag.foodbook.app-main-55:\\mipmap-xxxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\Akif\\.gradle\\daemon\\7.3.3\\com.akifgumusdag.foodbook.app-merged_res-53:\\layout_fragment_food_list.xml.flat",
+        "source": "C:\\Users\\Akif\\.gradle\\daemon\\7.3.3\\com.akifgumusdag.foodbook.app-main-55:\\layout\\fragment_food_list.xml"
+    },
+    {
+        "merged": "C:\\Users\\Akif\\.gradle\\daemon\\7.3.3\\com.akifgumusdag.foodbook.app-merged_res-53:\\drawable-v24_ic_launcher_foreground.xml.flat",
+        "source": "C:\\Users\\Akif\\.gradle\\daemon\\7.3.3\\com.akifgumusdag.foodbook.app-main-55:\\drawable-v24\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "C:\\Users\\Akif\\.gradle\\daemon\\7.3.3\\com.akifgumusdag.foodbook.app-merged_res-53:\\mipmap-hdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\Akif\\.gradle\\daemon\\7.3.3\\com.akifgumusdag.foodbook.app-main-55:\\mipmap-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "com.akifgumusdag.foodbook.app-merged_res-53:/navigation_food_graph.xml.flat",
+        "source": "com.akifgumusdag.foodbook.app-main-55:/navigation/food_graph.xml"
+    },
+    {
+        "merged": "C:\\Users\\Akif\\.gradle\\daemon\\7.3.3\\com.akifgumusdag.foodbook.app-merged_res-53:\\mipmap-mdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\Akif\\.gradle\\daemon\\7.3.3\\com.akifgumusdag.foodbook.app-main-55:\\mipmap-mdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\Akif\\.gradle\\daemon\\7.3.3\\com.akifgumusdag.foodbook.app-merged_res-53:\\layout_fragment_food_detail.xml.flat",
+        "source": "C:\\Users\\Akif\\.gradle\\daemon\\7.3.3\\com.akifgumusdag.foodbook.app-main-55:\\layout\\fragment_food_detail.xml"
+    },
+    {
+        "merged": "C:\\Users\\Akif\\.gradle\\daemon\\7.3.3\\com.akifgumusdag.foodbook.app-merged_res-53:\\mipmap-xhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\Akif\\.gradle\\daemon\\7.3.3\\com.akifgumusdag.foodbook.app-main-55:\\mipmap-xhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\Akif\\.gradle\\daemon\\7.3.3\\com.akifgumusdag.foodbook.app-merged_res-53:\\mipmap-xxhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\Akif\\.gradle\\daemon\\7.3.3\\com.akifgumusdag.foodbook.app-main-55:\\mipmap-xxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\Akif\\.gradle\\daemon\\7.3.3\\com.akifgumusdag.foodbook.app-merged_res-53:\\mipmap-mdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\Akif\\.gradle\\daemon\\7.3.3\\com.akifgumusdag.foodbook.app-main-55:\\mipmap-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\Akif\\.gradle\\daemon\\7.3.3\\com.akifgumusdag.foodbook.app-merged_res-53:\\layout_activity_main.xml.flat",
+        "source": "C:\\Users\\Akif\\.gradle\\daemon\\7.3.3\\com.akifgumusdag.foodbook.app-main-55:\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\Akif\\.gradle\\daemon\\7.3.3\\com.akifgumusdag.foodbook.app-merged_res-53:\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "C:\\Users\\Akif\\.gradle\\daemon\\7.3.3\\com.akifgumusdag.foodbook.app-main-55:\\mipmap-anydpi-v26\\ic_launcher.xml"
+    }
+]
