@@ -9,7 +9,7 @@ android {
     buildToolsVersion "30.0.0"
 
     defaultConfig {
-        applicationId "com.atilsamancioglu.besinlerkitabigradlework"
+        applicationId "com.akifgumusdag.foodbook"
         minSdkVersion 23
         targetSdkVersion 33
         versionCode 1
