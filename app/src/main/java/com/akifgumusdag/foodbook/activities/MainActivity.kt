@@ -1,7 +1,8 @@
-package com.atilsamancioglu.besinlerkitabigradlework
+package com.akifgumusdag.foodbook.activities
 
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
+import com.akifgumusdag.foodbook.R
 
 class MainActivity : AppCompatActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {

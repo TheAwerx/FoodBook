@@ -1,4 +1,4 @@
-package com.atilsamancioglu.besinlerkitabigradlework
+package com.akifgumusdag.foodbook
 
 import org.junit.Test
 
